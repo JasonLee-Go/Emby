@@ -185,8 +185,8 @@ payload:
   - DOMAIN,pub3sgp.emby.wtf
   - DOMAIN,pub3cf.emby.wtf
 
-# > 流媒体WaveCloud服务器
-  - DOMAIN,emby.wavecloud.us
+# > 流媒体PiKaChu服务器
+  - DOMAIN,emby.page
 
 # > 流媒体卷毛鼠服务器
   - DOMAIN,jmsooo.com
